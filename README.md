@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">Mathematician & Tutor turned Web Developer trying to explore the utmost possibilities of the tech industry using superior logic skills</h3>
 
-- 🔭 I’m currently working on **True Value Car** **Zính Band**
+- 🔭 I’m currently working on **True Value Car**, **Zính Band**
 
 - 🌱 I’m currently learning **passport.js, MongoDB, MySQL, Redux**
 
